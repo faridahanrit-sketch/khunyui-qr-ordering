@@ -1,0 +1,16 @@
+{
+  "lock_name": "KHUNYUI CUSTOMER V50 + OWNER V8 SOURCE",
+  "locked_at": "2026-09-20",
+  "customer_master": {
+    "file": "locked/CUSTOMER_V50_LOCKED_ORIGINAL.html",
+    "sha256": "337ceb5a1a7ba27c0815436b4943454aee193a620286bac05b24d9a130a7751e",
+    "rule": "VISUAL + MENU/PRICE/IMAGE MASTER. Do not redesign or overwrite menu/price/image without explicit approval."
+  },
+  "owner_source": {
+    "file": "locked/OWNER_V8_SOURCE_LOCKED.html",
+    "sha256": "d40dc2b9fd3aa82612943b6da1300c085f47d353ab91fe8fe936c87bdb60e4e0",
+    "rule": "OWNER UI SOURCE. Production copy may only change data wiring/security integration unless explicitly approved."
+  },
+  "menu_rows": 120,
+  "menu_codes_sha256": "981bc67d48ecd937343d1a8503e2f20b14693e041d437e68b6ccbb87ed7004ed"
+}

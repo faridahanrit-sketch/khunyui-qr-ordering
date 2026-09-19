@@ -1,0 +1,33 @@
+{
+  "customer_locked_sha256": "337ceb5a1a7ba27c0815436b4943454aee193a620286bac05b24d9a130a7751e",
+  "owner_source_sha256": "d40dc2b9fd3aa82612943b6da1300c085f47d353ab91fe8fe936c87bdb60e4e0",
+  "menu_rows": 120,
+  "owner_menu_matches_customer_v50_name_price": true,
+  "customer_fake_order_handler_removed": true,
+  "customer_database_rpc_wired": true,
+  "owner_demo_login_disabled_by_default": true,
+  "customer_access_production_rpc_wired": true,
+  "forbidden_copy_เลื่อนดูได้_count": 0,
+  "sql_files": [
+    "001_schema.sql",
+    "002_seed_v50.sql",
+    "003_rpc.sql",
+    "004_realtime_storage.sql",
+    "005_link_owner.sql"
+  ],
+  "package": "KHUNYUI_GITHUB_READY_V2",
+  "customer_master": "KHUNYUI_QR_ORDERING_REFERENCE_MATCH_V50_GAOLAO_WITH_SIDE.html",
+  "google_font_import_owner": true,
+  "google_font_import_customer": true,
+  "owner_qr_modal": true,
+  "owner_qr_renderer": true,
+  "owner_existing_controller_preserved": true,
+  "customer_v50_db_order_bridge": true,
+  "customer_v50_fake_session_only_submit_removed": true,
+  "payment_qr_fake_not_added": true,
+  "production_owner_sha256": "57078bb508db89492d0c28c01151d05cfbc22e80a6279110964bb92ab44773f5",
+  "production_customer_sha256": "2e6a11cafb2acbf544b077c46c72979954ec98bb08d154063485b3abb4e7d70f",
+  "javascript_syntax_owner": "PASS",
+  "javascript_syntax_customer": "PASS",
+  "literal_backslash_n_customer_count": 0
+}
